@@ -1,0 +1,52 @@
+.item{
+    margin-right: 30px;
+  }
+  .alice-carousel__prev-btn{
+    position: absolute;
+  opacity: 0.5;
+    cursor: default;
+   
+   
+   
+  }
+  .newcourse{
+    position: relative;
+  }
+  
+  .alice-carousel__next-btn{
+    position: absolute;
+    opacity: 0.5;
+    cursor: default;
+   
+  }
+  .alice-carousel__next-btn-item{
+    color: black;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  font-weight: bold;
+    border-radius: 15px;
+  
+  }
+  .alice-carousel__next-btn-item:hover{
+    color: white;
+    background-color: #913932;
+  }
+  .alice-carousel__prev-btn-item:hover{
+    color: white;
+    background-color: #913932;
+  }
+  .alice-carousel__prev-btn-item{
+    color: black;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  font-weight: bold;
+    border-radius: 15px;
+  }

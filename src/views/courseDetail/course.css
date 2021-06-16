@@ -1,0 +1,12 @@
+.canclebutton{
+    opacity: 0.5;
+}
+
+.canclebutton :hover{
+    opacity: 1; 
+    color: red;
+}
+audio::-webkit-media-controls-timeline,
+video::-webkit-media-controls-timeline {
+    display: none;
+}
